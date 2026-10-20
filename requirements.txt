@@ -1,0 +1,6 @@
+<html>
+<style>
+   div{min-height:1em;}
+</style>
+<body>Flask==2.3.3<br/>selenium==4.11.2<br/>APScheduler==3.10.4<br/>python-dotenv==1.0.0<br/>gunicorn==21.2.0<br/>webdriver-manager==4.0.1<br/></body>
+</html>
